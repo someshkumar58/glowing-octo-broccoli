@@ -1,5 +1,5 @@
 
-    /* Styling for focus controls and anchor states */
+    /* Styling for focus controls and anchor states. */
     .form-control-custom {
       border: 1px solid #ced4da;
       transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
